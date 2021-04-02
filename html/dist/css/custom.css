@@ -1,0 +1,215 @@
+.page-header {
+	margin: 20px 0 20px;
+}
+
+.page-header .logo {
+	margin-right: 5px;
+}
+
+.panel-primary {
+	border-color: #c61931;
+}
+
+.panel-primary>.panel-heading {
+	border-color: #d8224c;
+	background-color: #d8224c;
+}
+
+.panel-footer {
+	background-color: #f2f1f0;
+}
+
+.btn-primary.btn-outline {
+	color: #c61931;
+	border-color: #c61931;
+}
+
+.btn-primary:hover {
+	background-color: #c61931;
+	border-color: #c61931;
+}
+
+.info-item {
+	width: 140px;
+	float: left;
+}
+
+.webconsole {
+	width:100%;
+	height:100%;
+	border:1px solid;
+}
+
+#console {
+	height:500px;
+}
+
+.systemtabcontent {
+	height:100%;
+    min-height:500px;
+}
+
+.logoutput {
+    width:100%;
+    height:300px;
+}
+
+/*dashboard tft*/
+.dashboard_tft nav {
+	display: none;
+}
+.display_tft .page-heading {
+	display: none;
+}
+
+/*Tile*/
+.tile-content {
+	display: flex;
+	 display: -webkit-flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.tile-row {
+	display: flex;
+	 display: -webkit-flex;
+	flex-direction: row;
+	width: 100%;
+	text-align: center;
+}
+
+.tile {
+	height: 220px;
+    width: 50%;
+	overflow: hidden;
+	padding: 10px;
+	color: white;
+	margin: 1px;
+	font-size: 24px;
+	border-radius: 6px;
+}
+
+.tile.flexcenter-column {
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.tile.flexcenter-column > div {
+    width: 98%;
+    margin: 5px 0;
+}
+
+.tile.flexcenter-column > div {
+    width: 98%;
+    margin: 5px 0;
+}
+
+.tile .bold {
+    margin-top: 50px;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.tile .gianttext {
+	font-size: 42px;
+	margin-top: 40px;
+}
+
+.bg-green {
+	background: #1AC98D;	
+}
+
+.bg-yellow {
+	background: #E5D836;	
+}
+
+.bg-black {
+	background: #95a5a6;	
+}
+
+.bg-red {
+	background: #E64759;
+}
+
+.bg-purple {
+	background: #9F86FF;
+}
+
+.bg-blue {
+	background: #1CA8DD;
+}
+
+.dashboard_tft h1.page-header {
+    display: none;
+}
+
+body.dashboard_tft #wrapper {
+    height: 100%;
+    display: flex;
+	 display: -webkit-flex;
+    flex-direction: column;
+}
+
+body.dashboard_tft {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+.dashboard_tft .row.page-heading {
+    display: none;
+}
+body.dashboard_tft div#page-wrapper {
+    height: 100%;
+	margin: 0 15px;
+    padding: 0;
+}
+
+.dashboard_tft {
+    height: 100%;
+	background: #34495e;
+}
+
+.dashboard_tft .alert-warning {
+    margin: 1px;
+}
+.dashboard_tft .alert.alert-success {
+    margin: 1px;
+}
+
+.startvpn.button-vpn {
+    border-radius: 6px;
+    padding: 10px;
+    background: #ccc;
+    text-align: center;
+	cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.stopvpn.button-vpn {
+    border-radius: 6px;
+    padding: 10px;
+    background: #ccc;
+	cursor: pointer;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.stopberry {
+	cursor: pointer;
+	border-radius: 6px;
+	padding: 10px;
+}
+
+.flexcenter {
+	display: flex;
+	 display: -webkit-flex;
+	align-items: center;
+	justify-content: center;
+}

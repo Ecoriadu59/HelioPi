@@ -14,7 +14,7 @@
 
 ## Go:
 
-Télécharger l’archive “install-vpn” [ICI](dd) \
+Télécharger l’archive “install-vpn” [ICI](https://github.com/Ecoriadu59/HelioPi/releases/tag/V1.0) \
 Installer Putty, FileZilla et IP Scanner \
 Déterminer l’adresse du Raspberry grâce à Advanced Ip Scanner \
 Avec Filezilla connecter vous au Pi en sftp et glisser le dossier install-vpn de votre ordinateur vers le dossier distant par défaut du RaspberryPi (identifiant par defaut : pi / mot de passe : raspberry) \

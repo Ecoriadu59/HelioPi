@@ -40,6 +40,11 @@ Inserer vos identifiants en lieu et place de ceux presents. \
 Effectuez un “ctrl+x” \
 Puis tapez “y” \
 Puis “Entrée” \
+sudo nano vpn/auth.txt \
+Inserer vos identifiants en lieu et place de ceux presents. \
+Effectuez un “ctrl+x” \
+Puis tapez “y” \
+Puis “Entrée” \
 Redémarrez
 
 ## Fin
